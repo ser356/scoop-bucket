@@ -5,7 +5,7 @@
   "homepage": "https://github.com/ser356/letterboxd-cli",
   "license": "MIT",
   "url": "https://github.com/ser356/letterboxd-cli/releases/download/v0.2.0/videodrome-v0.2.0-windows-x86_64.zip",
-  "hash": "002130521bd796b61a22390179c74fa749928aa5d8774842df1b973f96baf668",
+  "hash": "bb76f1789d7063e62ee2f2b915a6bf1708ff96373aa6d93be92351d4c6c7d493",
   "bin": [
     ["videodrome.exe", "videodrome"]
   ],
