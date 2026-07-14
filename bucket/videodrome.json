@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Recomendaciones Letterboxd + streaming BitTorrent en VLC (GUI + CLI, mismo binario).",
-  "homepage": "https://github.com/ser356/letterboxd-cli",
+  "homepage": "https://github.com/ser356/videodrome",
   "license": "MIT",
-  "url": "https://github.com/ser356/letterboxd-cli/releases/download/v0.2.1/videodrome-v0.2.1-windows-x86_64.zip",
-  "hash": "aa6a8847410b2807e8fbc1d99222a72cda82715fdbece1a5d30c7fb28f2b2fdc",
+  "url": "https://github.com/ser356/videodrome/releases/download/v0.2.2/videodrome-v0.2.2-windows-x86_64.zip",
+  "hash": "1710464546f7da9838f4eef7633c20056dc9f972b5c3edc72749895b7a12b62e",
   "bin": [
     ["videodrome.exe", "videodrome"]
   ],
@@ -21,9 +21,9 @@
     "VLC se instaló automáticamente como dependencia (bucket 'extras')."
   ],
   "checkver": {
-    "github": "https://github.com/ser356/letterboxd-cli"
+    "github": "https://github.com/ser356/videodrome"
   },
   "autoupdate": {
-    "url": "https://github.com/ser356/letterboxd-cli/releases/download/v$version/videodrome-v$version-windows-x86_64.zip"
+    "url": "https://github.com/ser356/videodrome/releases/download/v$version/videodrome-v$version-windows-x86_64.zip"
   }
 }
