@@ -4,7 +4,7 @@
   "homepage": "https://github.com/ser356/letterboxd-cli",
   "license": "MIT",
   "url": "https://github.com/ser356/letterboxd-cli/releases/download/v0.1.0/letterboxd-cli-windows-x86_64.zip",
-  "hash": "76667dabb5f9b46c9273d4ac699627ae6b0e7712cd5df8a28a1ab938d0a385c9",
+  "hash": "a91ae7cd165e742d73607c3eeaaa09b84d12c210254c863bc7bbaf1c41e109c1",
   "bin": "letterboxd-cli.exe",
   "depends": "extras/vlc",
   "suggest": {
