@@ -5,7 +5,7 @@
   "homepage": "https://github.com/ser356/videodrome",
   "license": "MIT",
   "url": "https://github.com/ser356/videodrome/releases/download/v0.4.2/videodrome-v0.4.2-windows-x86_64.zip",
-  "hash": "69ceb60884f43d1a079742f200bfc5892babdb960dd803a39f57b854ab0d4b67",
+  "hash": "e2f0200bd006ef3f917679b938c4412b94f5c0837f6b5ee7aa89e6cdf09cb94c",
   "bin": [
     ["videodrome.exe", "videodrome"]
   ],
