@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Recomendaciones Letterboxd + streaming BitTorrent en VLC (GUI + CLI, mismo binario).",
   "homepage": "https://github.com/ser356/videodrome",
   "license": "MIT",
-  "url": "https://github.com/ser356/videodrome/releases/download/v0.4.2/videodrome-v0.4.2-windows-x86_64.zip",
-  "hash": "e2f0200bd006ef3f917679b938c4412b94f5c0837f6b5ee7aa89e6cdf09cb94c",
+  "url": "https://github.com/ser356/videodrome/releases/download/v0.4.3/videodrome-v0.4.3-windows-x86_64.zip",
+  "hash": "54049e2243770587172102216184db04b6eeb077895d25ea084cd9c1b0f995ac",
   "bin": [
     ["videodrome.exe", "videodrome"]
   ],
