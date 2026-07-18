@@ -5,7 +5,7 @@
   "homepage": "https://github.com/ser356/videodrome",
   "license": "MIT",
   "url": "https://github.com/ser356/videodrome/releases/download/v1.1.0/videodrome-v1.1.0-windows-x86_64.zip",
-  "hash": "0f131ba29c8610135ef022d6dbfdb6f0d19fd95ab5cde43a3ab9d5d0dcf2eba4",
+  "hash": "780a19b14d06121c4499f61623acbfaab78cf144850eb0abb5074a9b9052024a",
   "bin": [
     ["videodrome.exe", "videodrome"]
   ],
