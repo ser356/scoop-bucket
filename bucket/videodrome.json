@@ -4,8 +4,8 @@
   "description": "Recomendaciones Letterboxd + streaming BitTorrent con player embebido (GUI + CLI, mismo binario).",
   "homepage": "https://github.com/ser356/videodrome",
   "license": "MIT",
-  "url": "https://github.com/ser356/videodrome/releases/download/v1.2.0/videodrome-v1.2.0-windows-x86_64.zip",
-  "hash": "3e7205429d0ae52c2ae19cb6bb20e6ffe96c357883520af8d14e5c3b66de1dd7",
+  "url": "https://github.com/ser356/videodrome/releases/download/1.2.0/videodrome-1.2.0-windows-x86_64.zip",
+  "hash": "a4b906364e1719dfa0ba76817d52f54a8e152a0c175432d4fb6d2e84fb57b5ab",
   "bin": [
     ["videodrome.exe", "videodrome"]
   ],
