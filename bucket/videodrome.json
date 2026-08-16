@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "1.15.2",
+  "version": "1.18.3",
   "description": "Recomendaciones Letterboxd + streaming BitTorrent con player embebido (GUI + CLI, mismo binario).",
-  "homepage": "https://github.com/ser356/videodrome",
+  "homepage": "https://github.com/ser356/videodrome-releases",
   "license": "MIT",
-  "url": "https://github.com/ser356/videodrome/releases/download/v1.15.2/videodrome-v1.15.2-windows-x86_64.zip",
-  "hash": "16b321f8fa7a3ff50a58aa8909c03b065dc608d331cfd4977690df2093a24970",
+  "url": "https://github.com/ser356/videodrome-releases/releases/download/v1.18.3/videodrome-v1.18.3-windows-x86_64.zip",
+  "hash": "7e011aae85723423a3837f3ef8c1d2b9e2159263f07986247d3c50eed3a2f547",
   "bin": [
     ["videodrome.exe", "videodrome"]
   ],
@@ -22,9 +22,9 @@
     "Reproductor: por defecto embebido. Si prefieres VLC externo, instálalo aparte con `scoop bucket add extras && scoop install extras/vlc` y cambíalo en Ajustes."
   ],
   "checkver": {
-    "github": "https://github.com/ser356/videodrome"
+    "github": "https://github.com/ser356/videodrome-releases"
   },
   "autoupdate": {
-    "url": "https://github.com/ser356/videodrome/releases/download/v$version/videodrome-v$version-windows-x86_64.zip"
+    "url": "https://github.com/ser356/videodrome-releases/releases/download/v$version/videodrome-v$version-windows-x86_64.zip"
   }
 }
