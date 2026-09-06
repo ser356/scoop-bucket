@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "1.20.1",
+  "version": "1.21.0",
   "description": "Recomendaciones Letterboxd + streaming BitTorrent con player embebido (GUI + CLI, mismo binario).",
   "homepage": "https://github.com/ser356/videodrome-releases",
   "license": "MIT",
-  "url": "https://github.com/ser356/videodrome-releases/releases/download/v1.20.1/videodrome-v1.20.1-windows-x86_64.zip",
-  "hash": "b513f4cc755bb07ef637858535c74d8bde38a07bf319ed1ecea1b8b2fdd0072c",
+  "url": "https://github.com/ser356/videodrome-releases/releases/download/v1.21.0/videodrome-v1.21.0-windows-x86_64.zip",
+  "hash": "8b4c7bdf8612292a0199de1755ea44a78032a4036e48ba534dabfa6ad04b9cd6",
   "bin": [
     ["videodrome.exe", "videodrome"]
   ],
